@@ -7,7 +7,7 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 ## Making a plan
 
 1. **Make a drawing of your app. Simple "wireframes"**
- Heading
+ Title
  menu
  button
  image
