@@ -26,6 +26,12 @@ button to click on and off
 image of pet
 quote 
 1. **Once we know _why_ we need each element, think about how to implement the "Why" as a "How"**
+Title
+header
+body
+button
+image
+quote
 1. **Find all the 'events' (user clicks, form submit, on load etc) in your app. Ask one by one, "What happens when" for each of these events. Does any state change?**
 1. **Think about how to validate each of your features according to a Definition of Done**
 1. **Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.**
