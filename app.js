@@ -7,7 +7,7 @@ const animalDiv = document.getElementById('animalDiv');
 console.log(showButton, animalDiv);
 // set event listeners 
 
-const showButton = addEventListener('click', () => {
+showButton = addEventListener('click', () => {
     animalDiv.classList.remove('hidden');
 });
 
