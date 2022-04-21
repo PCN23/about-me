@@ -4,7 +4,7 @@
 const showButton = document.getElementById ('btn');
 const animalDiv = document.getElementById('animalDiv');
 
-
+console.log(showButton, animalDiv);
 // set event listeners 
     // get user input
     // use user input to update state 
