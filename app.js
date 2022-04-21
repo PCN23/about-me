@@ -1,6 +1,9 @@
 // import functions
 
 // grab DOM elements
+const showButton = document.getElementById ('btn');
+const animalDiv = document.getElementById('animalDiv');
+
 
 // set event listeners 
     // get user input
