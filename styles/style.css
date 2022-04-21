@@ -40,6 +40,38 @@ main {
     margin-bottom: calc(var(--footer-height));
 }
 
+.topLine {
+    background-color:green;
+}
+
+.hidden {
+    display: none; 
+}
+
+#animalDiv {
+    background-color:crimson; 
+    height:500px;
+    width:500px;
+    padding: 100px;
+}
+
+img{
+    height:300px;
+    width:200px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.btnColor {
+    background-color: burlywood;
+    font-weight:bold;
+}
+
+.firstName {
+    background-color: aqua;
+}
+
+
 section {
     background-color: var(--color5);
     max-width: 80%;
@@ -53,7 +85,6 @@ section {
     margin-bottom: var(--gutter);
     border: solid 2px var(--color1);
 }
-
 header {
     display: flex;
     justify-content: flex-end;
