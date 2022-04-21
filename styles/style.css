@@ -40,10 +40,15 @@ main {
     margin-bottom: calc(var(--footer-height));
 }
 
-.hidden {
-    display: none;
+.top_line {
+    background-color:green;
 }
 
+.hidden {
+    display: none;
+    background-color:crimson; height:200px weight:400px;
+    display: grid;
+}
 
 section {
     background-color: var(--color5);
